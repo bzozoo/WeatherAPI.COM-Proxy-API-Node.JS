@@ -1,0 +1,17 @@
+{
+  "name": "weather-proxy",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "2.6.7"
+  },
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "keywords": [],
+  "description": ""
+}
